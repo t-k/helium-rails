@@ -30,7 +30,7 @@ Add it to your Gemfile:
       gem 'helium-rails'
     end
 
-Then add this to `app/assets/javascripts/application.css.scss`:
+Then add this to `app/assets/stylesheets/application.css.scss`:
 
     @import "compass";
     @import "helium/master";
