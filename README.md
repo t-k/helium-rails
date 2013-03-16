@@ -1,7 +1,9 @@
 # Helium::Rails
 
 This gem is a wrapper for Helium Helium CSS framework.
+
 https://github.com/cbrauckmuller/helium
+
 It vendors stylesheets and javascript library code for use with Rails' asset pipeline (Rails 3.1+).
 
 ## Installation
