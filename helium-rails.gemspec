@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["tatsuo@kaniwa.biz"]
   spec.description       = %q{Vendors Helium CSS framework for use with asset pipeline.}
   spec.summary   = %q{Helium CSS framework for Rails}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/t-k/helium-rails"
   spec.license       = "MIT"
 
   spec.files        = Dir.glob("{lib,vendor}/**/*") + %w(LICENSE README.md)
