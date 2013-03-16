@@ -1,4 +1,5 @@
 # Helium::Rails
+[![Gem Version](https://badge.fury.io/rb/helium-rails.png)](https://rubygems.org/gems/helium-rails)
 
 This gem is a wrapper for Helium Helium CSS framework.
 
