@@ -28,6 +28,7 @@ Add it to your Gemfile:
     end
 
 Then add this to `app/assets/stylesheets/application.css.scss`:
+
     // change base font colors
     $base-font-color: #000;
     @import "compass";
