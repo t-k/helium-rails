@@ -17,22 +17,19 @@ And then execute:
 
     $ bundle
 
-Or install it yourself as:
-
-    $ gem install helium-rails
 
 ## Usage
 
 Add it to your Gemfile:
 
     group :assets do
-      # Your other asset gems (sass-rails, coffee-rails, etc)
 
       gem 'helium-rails'
     end
 
 Then add this to `app/assets/stylesheets/application.css.scss`:
-
+    // change base font colors
+    $base-font-color: #000;
     @import "compass";
     @import "helium/master";
 
